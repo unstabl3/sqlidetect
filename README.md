@@ -1,3 +1,13 @@
+## Installation
+
+To install and run this tool, you'll need Go installed on your system. If you haven't already, follow the official Go installation guide.
+
+With Go installed, follow these steps:
+
+```
+go install github.com/unstabl3/sqlidetect@latest
+```
+
 ## Usage
 
 ### Basic Usage
